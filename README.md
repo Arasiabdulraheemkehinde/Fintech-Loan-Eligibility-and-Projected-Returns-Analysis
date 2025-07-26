@@ -1,5 +1,4 @@
 # Fintech-Loan-Eligibility-and-Projected-Returns-Analysis
-# 🏦 Fintech Loan Eligibility and Projected Returns Analysis
 
 This Power BI project analyzes fintech customer data to assess **loan eligibility**, **high profile customer segmentation**, and **projected returns**. Built to support a consultancy firm’s fintech client, the goal is to empower better loan product design, risk management, and customer engagement strategies.
 
@@ -96,5 +95,7 @@ These help simulate **projected returns** and design strategic loan products.
 ---
 
 ##  Project Dashboard 
+##  ![Uploading FINTECH PROJECT USING POWER BI  1.png…]()
+##  <img width="546" height="353" alt="FINTECH PROJECT USING POWER BI 2" src="https://github.com/user-attachments/assets/5d0ca1fb-1b67-4d4b-bbac-3522b3e0cb0c" />
 
 
