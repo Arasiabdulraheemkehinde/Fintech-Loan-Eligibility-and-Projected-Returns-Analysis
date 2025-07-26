@@ -95,7 +95,7 @@ These help simulate **projected returns** and design strategic loan products.
 ---
 
 ##  Project Dashboard 
-##  ![Uploading FINTECH PROJECT USING POWER BI  1.png…]()
+##  <img width="543" height="349" alt="FINTECH PROJECT USING POWER BI  1" src="https://github.com/user-attachments/assets/124b4dbf-4b8a-45b0-848a-b870aefe1602" />
 ##  <img width="546" height="353" alt="FINTECH PROJECT USING POWER BI 2" src="https://github.com/user-attachments/assets/5d0ca1fb-1b67-4d4b-bbac-3522b3e0cb0c" />
 
 
